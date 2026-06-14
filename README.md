@@ -16,15 +16,27 @@ A full-stack e-commerce application for an online jewelry boutique. Features use
 
 ## 🌐 Live Demo
 
-**[View Live Demo](https://ganeshyadav77.github.io/jewellery-e-shop-website/)** - Experience the luxury jewelry collection in action!
+### ✨ Experience the Live Application
 
-### Features Included:
-- 🛍️ Browse premium jewelry products
-- ❤️ Add items to wishlist
-- 🛒 Manage shopping cart
-- 🔍 Search and filter products
-- 📱 Fully responsive design
-- 💬 WhatsApp support integration
+**[🔗 View Live Demo](https://ganeshyadav77.github.io/jewellery-e-shop-website/)** - Experience the luxury jewelry collection in action!
+
+This live demo showcases a fully functional jewelry e-commerce platform with a beautiful, responsive interface. Explore our premium collection and experience the seamless shopping journey.
+
+### 🎯 Live Demo Features:
+- 🛍️ **Browse Premium Jewelry** - Explore our exquisite collection of jewelry products
+- ❤️ **Wishlist Management** - Save your favorite items to your wishlist
+- 🛒 **Shopping Cart** - Add items to cart and manage quantities
+- 🔍 **Advanced Search & Filter** - Find jewelry by category, price range, and more
+- 📱 **Fully Responsive Design** - Perfect experience on desktop, tablet, and mobile devices
+- 💬 **WhatsApp Support** - Connect with our team for inquiries and support
+- 🎨 **Beautiful UI/UX** - Modern and intuitive user interface design
+- ⚡ **Fast Performance** - Optimized for quick loading and smooth navigation
+
+### 🔗 Demo Link
+- **Live URL**: https://ganeshyadav77.github.io/jewellery-e-shop-website/
+- **Status**: ✅ Active and Running
+
+---
 
 ## ✨ Features
 
