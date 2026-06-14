@@ -4,6 +4,7 @@ A full-stack e-commerce application for an online jewelry boutique. Features use
 
 ## 📋 Table of Contents
 
+- [Live Demo](#live-demo)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Installation](#installation)
@@ -12,6 +13,18 @@ A full-stack e-commerce application for an online jewelry boutique. Features use
 - [API Endpoints](#api-endpoints)
 - [Contributing](#contributing)
 - [License](#license)
+
+## 🌐 Live Demo
+
+**[View Live Demo](https://ganeshyadav77.github.io/jewellery-e-shop-website/)** - Experience the luxury jewelry collection in action!
+
+### Features Included:
+- 🛍️ Browse premium jewelry products
+- ❤️ Add items to wishlist
+- 🛒 Manage shopping cart
+- 🔍 Search and filter products
+- 📱 Fully responsive design
+- 💬 WhatsApp support integration
 
 ## ✨ Features
 
